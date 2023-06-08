@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4f8e61f-0a21-41b2-a98c-016797754708" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GwmnWokoX5OvPu4yfQa3VUdVtS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/java/napredno/KolokZad/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java\napredno\aud\src\aud4\oldest\files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\java\napredno\aud\src\aud4\GradesForCourse\files" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4f8e61f-0a21-41b2-a98c-016797754708" name="Changes" comment="" />
+      <created>1667308187546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667308187546</updated>
+      <workItem from="1667308188735" duration="69000" />
+      <workItem from="1667308450072" duration="404000" />
+      <workItem from="1667401174100" duration="32000" />
+      <workItem from="1667665161213" duration="4740000" />
+      <workItem from="1669560826238" duration="6156000" />
+      <workItem from="1669569699610" duration="3982000" />
+      <workItem from="1669585252412" duration="380000" />
+      <workItem from="1670860064404" duration="6410000" />
+      <workItem from="1670933383386" duration="28000" />
+      <workItem from="1671390288280" duration="4338000" />
+      <workItem from="1671567963279" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
